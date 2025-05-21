@@ -1,0 +1,26 @@
+[
+    {
+        "id": 6,
+        "idBook": 3,
+        "firstName": "First Name 6",
+        "lastName": "Last Name 6"
+    },
+    {
+        "id": 7,
+        "idBook": 3,
+        "firstName": "First Name 7",
+        "lastName": "Last Name 7"
+    },
+    {
+        "id": 8,
+        "idBook": 3,
+        "firstName": "First Name 8",
+        "lastName": "Last Name 8"
+    },
+    {
+        "id": 9,
+        "idBook": 3,
+        "firstName": "First Name 9",
+        "lastName": "Last Name 9"
+    }
+]
